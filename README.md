@@ -77,7 +77,7 @@ Two stored procedures are implemented:
 
 ## 👨‍💻 Author
 
-**Name:** Harishchandra
-**LinkedIn:** linkedin.com/in/harishchandra-patgar-940ba6434
-**GitHub:**   
+**Name:** Harishchandra        
+**LinkedIn:** https://www.linkedin.com/in/harishchandra-patgar-940ba6434?utm_source=share_via&utm_content=profile&utm_medium=member_android          
+**GitHub:** https://github.com/Harishchandra102005          
 **E-mail:** harishchandra102005@gmail.com
