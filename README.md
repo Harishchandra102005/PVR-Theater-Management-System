@@ -75,9 +75,9 @@ Two stored procedures are implemented:
 - Error Handling
 - SQL Validation
 
-**Author Name:** Harishchandra    
-**Project Name:** PVR Theater Management System  
-**Database:** MySQL  
-**Project Type:** SQL Database Project     
-**LinkedIn:** https://www.linkedin.com/in/harishchandra-patgar-940ba6434?utm_source=share_via&utm_content=profile&utm_medium=member_android   
+## 👨‍💻 Author
+
+**Name:** Harishchandra
+**LinkedIn:** linkedin.com/in/harishchandra-patgar-940ba6434
+**GitHub:**   
 **E-mail:** harishchandra102005@gmail.com
